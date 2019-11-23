@@ -11,7 +11,7 @@
 ====
 特性架构
 ----
-* 基本介绍
+* [基本介绍](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D.md)
 * java系统服务
 * Context
 * Activity
