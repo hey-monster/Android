@@ -11,6 +11,7 @@
 ====
 特性架构
 ----
+* 基本介绍
 * java系统服务
 * Context
 * Activity
