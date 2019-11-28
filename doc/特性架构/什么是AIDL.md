@@ -1,0 +1,1 @@
+AIDL是一个缩写，全称是Android Interface Definition Language，也就是Android接口定义语言
