@@ -17,3 +17,16 @@ onCreate()
 onPause()
 系统将此方法作为用户离开 Activity 的第一个信号（但并不总是意味着 Activity 会被销毁）进行调用。 您通常应该在此方法内确认在当前用户会话结束后仍然有效的任何更改（因为用户可能不会返回）。
 您还应使用几种其他生命周期回调方法，以便提供流畅的 Activity 间用户体验，以及处理导致您的 Activity 停止甚至被销毁的意外中断。
+
+![生命周期](https://github.com/hey-monster/Android/blob/master/image/activity-1.png)
+
+四、Activity之间的通信
+在一个项目中，我们会用到很多的activity，因此我们需要一种特别的机制帮助我们在 Activity 之间传递消息。
+
+Intent的使用
+Intent是一种消息传递的机制，它负责对操作的动作、动作涉及数据、附加数据进行描述，Android则根据此Intent的描述，负责找到对应的组件，将 Intent传递给调用的组件，并完成组件的调用。
+
+作者：强大帅
+链接：https://www.jianshu.com/p/d4d677727a0a
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
