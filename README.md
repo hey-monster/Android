@@ -15,6 +15,7 @@
 * java系统服务
 * Context
 * Activity
+* BroadcastReceiver
 * 属性服务
 
 系统启动
