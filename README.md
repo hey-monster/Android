@@ -11,6 +11,7 @@
 ====
 特性架构
 ----
+* [代码阅读](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E4%BB%A3%E7%A0%81%E9%98%85%E8%AF%BB.md）
 * [基本介绍](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D.md)
 * [Activity](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/Activity.md)
 * [Service]
