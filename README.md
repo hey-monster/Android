@@ -19,18 +19,19 @@
 * [Context](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/ContentProvider.md)
 
 * [Intent](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/intent.md)
-* java系统服务
-* 属性服务
+* [java系统服务](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1.md)
+* [SDK&NDK](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/SDK%26NDK.md)
+* [属性服务]()
 * [抽象类（abstract class）与接口（Interface）](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E6%8A%BD%E8%B1%A1%E7%B1%BB%EF%BC%88abstract%20class%EF%BC%89%E4%B8%8E%E6%8E%A5%E5%8F%A3%EF%BC%88Interface%EF%BC%89.md)
 
 系统启动
 ----
-* init进程
-* zygote进程
+* [init进程](https://github.com/hey-monster/Android/blob/master/doc/%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/init%E8%BF%9B%E7%A8%8B.md)
+* [zygote进程](https://github.com/hey-monster/Android/blob/master/doc/%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/zygote%E8%BF%9B%E7%A8%8B.md)
 
 通信方式
 ----
 * [Binder机制](https://github.com/hey-monster/Android/blob/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/Binder%E6%9C%BA%E5%88%B6.md)
-* JNI
-* AIDL
-* HIDL
+* [JNI](https://github.com/hey-monster/Android/blob/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/AIDL.md)
+* [AIDL](https://github.com/hey-monster/Android/blob/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/AIDL.md)
+* [HIDL](https://github.com/hey-monster/Android/tree/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F)
