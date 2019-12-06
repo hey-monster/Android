@@ -29,3 +29,8 @@ Binder是android系统的进程间通信机制，linux常见的进程间通信�
 ### 3.1 模型原理图
  Binder 跨进程通信机制 模型 基于 Client - Server 模式 
  
+
+
+
+参考：
+https://blog.csdn.net/carson_ho/article/details/73560642
