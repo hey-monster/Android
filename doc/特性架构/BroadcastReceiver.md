@@ -1,3 +1,6 @@
+参考：
+https://www.jianshu.com/p/ca3d87a4cdf3
+
 1. 定义
 BroadcastReceiver即广播，是一个全局的监听器，属于Android四大组件之一
 Android 广播分为两个角色：广播发送者、广播接收者
