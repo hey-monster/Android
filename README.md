@@ -7,7 +7,10 @@
 ====
 系统结构
 ====
-* [整体架构](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.md)
+* [整体架构](https://github.com/hey-monster/Android/blob/master/doc/%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.md)
+* [audio](https://github.com/hey-monster/Android/blob/master/doc/%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/audio.md)
+* [radio](https://github.com/hey-monster/Android/blob/master/doc/%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/radio.md)
+
 
 内容分类
 ====
