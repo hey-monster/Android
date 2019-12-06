@@ -3,3 +3,5 @@
 
 2. 作用
 进程间 进行数据交互 & 共享，即跨进程通信
+
+参考链接：https://www.jianshu.com/p/ea8bc4aaf057
