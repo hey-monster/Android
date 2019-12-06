@@ -1,7 +1,7 @@
 >关于我
 * [我的博客](http://blog.sina.com.cn/s/articlelist_3030983384_0_1.html)
 * [github](https://github.com/hey-monster)
-* 邮箱 1138775801@qq.com
+* [邮箱] 1138775801@qq.com
 
 前言
 ====
@@ -18,7 +18,7 @@
 * [BroadcastReceiver](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/BroadcastReceiver.md)
 * [Context]
 
-* [Intent]
+* [Intent](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/intent.md)
 * java系统服务
 * 属性服务
 * [抽象类（abstract class）与接口（Interface）](https://github.com/hey-monster/Android/blob/master/doc/%E7%89%B9%E6%80%A7%E6%9E%B6%E6%9E%84/%E6%8A%BD%E8%B1%A1%E7%B1%BB%EF%BC%88abstract%20class%EF%BC%89%E4%B8%8E%E6%8E%A5%E5%8F%A3%EF%BC%88Interface%EF%BC%89.md)
