@@ -40,3 +40,4 @@
 * [JNI](https://github.com/hey-monster/Android/blob/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/AIDL.md)
 * [AIDL](https://github.com/hey-monster/Android/blob/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/AIDL.md)
 * [HIDL](https://github.com/hey-monster/Android/tree/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F)
+* [HAL-driver](https://github.com/hey-monster/Android/blob/master/doc/%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/HAL-driver.md)
